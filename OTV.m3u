@@ -454,5 +454,5 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6679
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c5ee300fa08c335e990f879565a7410:c08870f7ba32dbf720f6788214f2851a
-#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAMZW_p_IVP_PORT_390x585_2B23_2025418_141331.jpg" group-title="KLASIK",Antara Dua Darjat (1960)
+#EXTINF:-1 type="movies" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAMZW_p_IVP_PORT_390x585_2B23_2025418_141331.jpg" group-title="Movies/Klasik",Antara Dua Darjat (1960)
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ad044b0b-421b-53ce-bf75-ff2c5964e43e/default_primary.mpd
