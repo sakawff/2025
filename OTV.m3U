@@ -425,3 +425,27 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a05f
 #KODIPROP:inputstream.adaptive.license_key=8d9c146658d6a30e6184d114da1e7f10:eac37519949c54dee1023fab9c05b851
 #EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_IVP_LAND_917x516_829D5_202553_133456.jpg" group-title="MALAY SERIES 2025", Dia Imamku E53
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/de3c510e-d59e-5938-8291-e585dea6ffa5/default_primary.mpd
+
+###Dia Bukan Syurga##
+
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=119ee0432d74e05a817f9f9d8b4dba10:6cb266d36a7686d2c83c7c98182c12f8
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_IVP_LAND_672x378_85AB5_2025520_15529.jpg" group-title="MALAY SERIES 2025",Dia Bukan Syurga E01
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/08238861-5f87-5894-a74f-21baefed1423/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88771fd4d8131d73127ab43e9c7aa310:b31d8c40558a5b62d4a2509a46ebe407
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHO_IVP_LAND_672x378_85AB6_2025522_133218.jpg" group-title="MALAY SERIES 2025",Dia Bukan Syurga E02
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/fb001c08-5c6d-5b5f-b7b9-aa6aae091315/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=296f9da92244da738cdc9eeaa5d04b10:c18211e7565be7ba858288fb2297ddaf
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHP_IVP_LAND_672x378_85AB7_2025521_17941.jpg" group-title="MALAY SERIES 2025",Dia Bukan Syurga E03
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/63daa4fe-8624-5d61-b89b-8f767111f20d/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63d5ed0240a94d81e2987d19fefbd610:8ddcd12e34684707c6d2c5d05aa613d8
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHQ_IVP_LAND_672x378_85AB8_2025522_20120.jpg" group-title="MALAY SERIES 2025",Dia Bukan Syurga E04
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6679ce39-e3bc-50b4-8850-5c3063aa7b56/default_primary.mpd
