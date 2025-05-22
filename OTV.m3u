@@ -449,3 +449,10 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/63da
 #KODIPROP:inputstream.adaptive.license_key=63d5ed0240a94d81e2987d19fefbd610:8ddcd12e34684707c6d2c5d05aa613d8
 #EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_IVP_LAND_586x330_85AB3_2025516_95548.jpg" group-title="MALAY SERIES 2025",Dia Bukan Syurga E04
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6679ce39-e3bc-50b4-8850-5c3063aa7b56/default_primary.mpd
+
+###klasik movie###
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c5ee300fa08c335e990f879565a7410:c08870f7ba32dbf720f6788214f2851a
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAMZW_p_IVP_PORT_390x585_2B23_2025418_141331.jpg" group-title="Klasik",Antara Dua Darjat (1960)
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ad044b0b-421b-53ce-bf75-ff2c5964e43e/default_primary.mpd
