@@ -159,6 +159,11 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b60d
 #EXTINF:-1 type="series" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-1000/https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/sept/kv_1920x1080-ao_first-wives_adaptations.jpg" group-title="MALAY SERIES 2025", First Wives E07
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/d00cc01c-b411-51f8-b81f-7bd1f64cf925/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=841725eacbc0226761d7816b63ff6710:274166919e06e73213a93bbe439fa19a
+#EXTINF:-1 type="series" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-1000/https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/sept/kv_1920x1080-ao_first-wives_adaptations.jpg" group-title="MALAY SERIES 2025", First Wives E08
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/165b2f3d-3524-5b49-bdea-63b876a6252a/default_primary.mpd
+
 #######Dia Imamku#######
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
