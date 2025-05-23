@@ -1,122 +1,118 @@
 [
-  {
-    "title": "Sepahtu Reunion Kecoh Beraya",
-    "type": "series",
-    "year": 2025,
-    "genre": [
-      "Comedy"
-    ],
-    "plot": "A comedy series featuring the antics and reunion of the Sepahtu group during the festive season.",
-    "poster": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_series_p_IVP_PORT_390x585_84192_2025421_144730.jpg",
-    "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_IVP_LAND_672x378_84192_2025421_144726.jpg",
-    "seasons": [
-      {
-        "season": 1,
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Sepahtu Reunion Kecoh Beraya Ep01",
-            "duration": "0h47m",
-            "video_format": "1080p FHD",
-            "audio_format": "Dolby Digital 5.1",
-            "audio_languages": [
-              "Malay"
-            ],
-            "subtitles": [
-              "English",
-              "Malay"
-            ],
-            "video_url": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2f527ba1-ec65-5c23-94c2-85dfcd24f3ed/default_primary.mpd",
-            "poster": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_series_p_IVP_PORT_390x585_84192_2025421_144730.jpg",
-            "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_IVP_LAND_672x378_84192_2025421_144726.jpg"
-          },
-          {
-            "episode": 2,
-            "title": "Sepahtu Reunion Kecoh Beraya Ep02",
-            "duration": "0h46m",
-            "video_format": "1080p FHD",
-            "audio_format": "Dolby Digital 5.1",
-            "audio_languages": [
-              "Malay"
-            ],
-            "subtitles": [
-              "English",
-              "Malay"
-            ],
-            "video_url": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a2eac122-49ce-57eb-856f-80a0f686371c/default_primary.mpd",
-            "poster": null,
-            "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDZ_IVP_LAND_672x378_84193_2025421_144850.jpg"
-          },
-          {
-            "episode": 3,
-            "title": "Sepahtu Reunion Kecoh Beraya Ep03",
-            "duration": "0h46m",
-            "video_format": "1080p FHD",
-            "audio_format": "Dolby Digital 5.1",
-            "audio_languages": [
-              "Malay"
-            ],
-            "subtitles": [
-              "English",
-              "Malay"
-            ],
-            "video_url": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/804d60d1-b1a0-54f7-9cb1-0ddf1bfbfdbb/default_primary.mpd",
-            "poster": null,
-            "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUEA_IVP_LAND_672x378_84194_2025421_144929.jpg"
-          },
-          {
-            "episode": 4,
-            "title": "Sepahtu Reunion Kecoh Beraya Ep04",
-            "duration": "0h47m",
-            "video_format": "1080p FHD",
-            "audio_format": "Dolby Digital 5.1",
-            "audio_languages": [
-              "Malay"
-            ],
-            "subtitles": [
-              "English",
-              "Malay"
-            ],
-            "video_url": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/86843efd-3370-5fc1-92b0-47bdd100cfb8/default_primary.mpd",
-            "poster": null,
-            "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUEB_IVP_LAND_672x378_84195_202551_85438.jpg"
-          },
-          {
-            "episode": 5,
-            "title": "Sepahtu Reunion Kecoh Beraya Ep05",
-            "duration": "0h46m",
-            "video_format": "1080p FHD",
-            "audio_format": "Dolby Digital 5.1",
-            "audio_languages": [
-              "Malay"
-            ],
-            "subtitles": [
-              "English",
-              "Malay"
-            ],
-            "video_url": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/366641e4-31db-51ce-9314-1e02b0dabac3/default_primary.mpd",
-            "poster": null,
-            "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUEC_IVP_LAND_672x378_84196_202551_85513.jpg"
-          },
-          {
-            "episode": 6,
-            "title": "Sepahtu Reunion Kecoh Beraya Ep06",
-            "duration": "0h45m",
-            "video_format": "1080p FHD",
-            "audio_format": "Dolby Digital 5.1",
-            "audio_languages": [
-              "Malay"
-            ],
-            "subtitles": [
-              "English",
-              "Malay"
-            ],
-            "video_url": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/770fe754-fbe4-5f25-8d2b-029ab45b38e6/default_primary.mpd",
-            "poster": null,
-            "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUED_IVP_LAND_672x378_84197_202555_1366.jpg"
-          }
-        ]
-      }
-    ]
-  }
-]
+    {
+  "title": "Sepahtu Reunion Kecoh Beraya",
+  "type": "series",
+  "year": 2025,
+  "genre": [
+    "Comedy"
+  ],
+  "plot": "A comedy series featuring the antics and reunion of the Sepahtu group during the festive season.",
+  "poster": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_series_p_IVP_PORT_390x585_84192_2025421_144730.jpg",
+  "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_IVP_LAND_672x378_84192_2025421_144726.jpg",
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Sepahtu Reunion Kecoh Beraya Ep01",
+          "duration": "0h47m",
+          "video_format": "1080p FHD",
+          "audio_format": "Dolby Digital 5.1",
+          "audio_languages": [
+            "Malay"
+          ],
+          "subtitles": [
+            "English",
+            "Malay"
+          ],
+          "video_url": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2f527ba1-ec65-5c23-94c2-85dfcd24f3ed/default_primary.mpd",
+          "poster": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_series_p_IVP_PORT_390x585_84192_2025421_144730.jpg",
+          "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_IVP_LAND_672x378_84192_2025421_144726.jpg"
+        },
+        {
+          "episode": 2,
+          "title": "Sepahtu Reunion Kecoh Beraya Ep02",
+          "duration": "0h46m",
+          "video_format": "1080p FHD",
+          "audio_format": "Dolby Digital 5.1",
+          "audio_languages": [
+            "Malay"
+          ],
+          "subtitles": [
+            "English",
+            "Malay"
+          ],
+          "video_url": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a2eac122-49ce-57eb-856f-80a0f686371c/default_primary.mpd",
+          "poster": null,
+          "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDZ_IVP_LAND_672x378_84193_2025421_144850.jpg"
+        },
+        {
+          "episode": 3,
+          "title": "Sepahtu Reunion Kecoh Beraya Ep03",
+          "duration": "0h46m",
+          "video_format": "1080p FHD",
+          "audio_format": "Dolby Digital 5.1",
+          "audio_languages": [
+            "Malay"
+          ],
+          "subtitles": [
+            "English",
+            "Malay"
+          ],
+          "video_url": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/804d60d1-b1a0-54f7-9cb1-0ddf1bfbfdbb/default_primary.mpd",
+          "poster": null,
+          "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUEA_IVP_LAND_672x378_84194_2025421_144929.jpg"
+        },
+        {
+          "episode": 4,
+          "title": "Sepahtu Reunion Kecoh Beraya Ep04",
+          "duration": "0h47m",
+          "video_format": "1080p FHD",
+          "audio_format": "Dolby Digital 5.1",
+          "audio_languages": [
+            "Malay"
+          ],
+          "subtitles": [
+            "English",
+            "Malay"
+          ],
+          "video_url": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/86843efd-3370-5fc1-92b0-47bdd100cfb8/default_primary.mpd",
+          "poster": null,
+          "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUEB_IVP_LAND_672x378_84195_202551_85438.jpg"
+        },
+        {
+          "episode": 5,
+          "title": "Sepahtu Reunion Kecoh Beraya Ep05",
+          "duration": "0h46m",
+          "video_format": "1080p FHD",
+          "audio_format": "Dolby Digital 5.1",
+          "audio_languages": [
+            "Malay"
+          ],
+          "subtitles": [
+            "English",
+            "Malay"
+          ],
+          "video_url": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/366641e4-31db-51ce-9314-1e02b0dabac3/default_primary.mpd",
+          "poster": null,
+          "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUEC_IVP_LAND_672x378_84196_202551_85513.jpg"
+        },
+        {
+          "episode": 6,
+          "title": "Sepahtu Reunion Kecoh Beraya Ep06",
+          "duration": "0h45m",
+          "video_format": "1080p FHD",
+          "audio_format": "Dolby Digital 5.1",
+          "audio_languages": [
+            "Malay"
+          ],
+          "subtitles": [
+            "English",
+            "Malay"
+          ],
+          "video_url": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/770fe754-fbe4-5f25-8d2b-029ab45b38e6/default_primary.mpd",
+          "poster": null,
+          "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUED_IVP_LAND_672x378_84197_202555_1366.jpg"
+        }
+      ] 
