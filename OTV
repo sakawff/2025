@@ -467,9 +467,9 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ad04
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76b4edae92b74db565a17d92a6cbf210:281a82f320f146e521090945863e2ea7
 #EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_series_p_IVP_PORT_390x585_84192_2025421_144730.jpg" group-title="MALAY SERIES 2025",Sepahtu Reunion Kecoh Beraya E01
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2f527ba1-ec65-5c23-94c2-85dfcd24f3ed/default_primary.mpd
-#KODIPROP:inputstream.adaptive.license_key=76b4edae92b74db565a17d92a6cbf210:281a82f320f146e521090945863e2ea7
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_series_p_IVP_PORT_390x585_84192_2025421_144730.jpg" group-title="MALAY SERIES 2025",Sepahtu Reunion Kecoh Beraya E02
@@ -477,7 +477,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a2ea
 #KODIPROP:inputstream.adaptive.license_key=54330054d8d2baa56b6e7e543ba1eb10:3132bad72307cc7218fed014b0a07bad
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_series_p_IVP_PORT_390x585_84192_2025421_144730.jpg" group-title="MALAY SERIES 2025",Sepahtu Reunion Kecoh Beraya Ep03
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_series_p_IVP_PORT_390x585_84192_2025421_144730.jpg" group-title="MALAY SERIES 2025",Sepahtu Reunion Kecoh Beraya E03
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/804d60d1-b1a0-54f7-9cb1-0ddf1bfbfdbb/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=529f1d5db111808c7bd9246bfe1c9a10:a1c16d824eb0cedc73329a52e3af08af
 
@@ -487,7 +487,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/8684
 #KODIPROP:inputstream.adaptive.license_key=0cdd55fdbcba454f449b1ef55e310310:9038a6a405e1476bfe795da384801df7
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_series_p_IVP_PORT_390x585_84192_2025421_144730.jpg" group-title="MALAY SERIES 2025",Sepahtu Reunion Kecoh Beraya Ep05
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_series_p_IVP_PORT_390x585_84192_2025421_144730.jpg" group-title="MALAY SERIES 2025",Sepahtu Reunion Kecoh Beraya E05
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/366641e4-31db-51ce-9314-1e02b0dabac3/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=44c3d088ba2738820d1221a149a5a910:4338227295d4ca865268be0ca5157bbb
 
