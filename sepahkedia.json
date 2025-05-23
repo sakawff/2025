@@ -1,7 +1,6 @@
 [
   {
     "name": "Sepahtu Reunion Kecoh Beraya",
-    "category": "",
     "info": {
       "plot": "A comedy series featuring the antics and reunion of the Sepahtu group during the festive season.",
       "poster": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_series_p_IVP_PORT_390x585_84192_2025421_144730.jpg",
@@ -14,7 +13,7 @@
     },
     "seasons": [
       {
-        "season_number": 1,
+        "season_number": ,
         "episodes": [
           {
             "episode_number": 1,
