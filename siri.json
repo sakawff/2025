@@ -12,9 +12,6 @@
         "Comedy"
       ]
     },
-    "seasons": [
-      {
-        "season_number": "",
         "episodes": [
           {
             "episode_number": 1,
@@ -159,9 +156,6 @@
       "Drama"
     ]
   },
-  "seasons": [
-    {
-      "season_number": "",
       "episodes": [
         {
           "episode_number": 1,
