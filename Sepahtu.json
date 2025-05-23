@@ -1,4 +1,5 @@
-{
+[
+    {
   "title": "Sepahtu Reunion Kecoh Beraya",
   "type": "series",
   "year": 2025,
@@ -114,7 +115,4 @@
           "poster": null,
           "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUED_IVP_LAND_672x378_84197_202555_1366.jpg"
         }
-      ]
-    }
-  ]
-}
+      ] 
