@@ -461,3 +461,196 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6679
 #KODIPROP:inputstream.adaptive.license_key=1c5ee300fa08c335e990f879565a7410:c08870f7ba32dbf720f6788214f2851a
 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAMZW_p_IVP_PORT_390x585_2B23_2025418_141331.jpg" group-title="Klasik",Antara Dua Darjat 1960
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ad044b0b-421b-53ce-bf75-ff2c5964e43e/default_primary.mpd
+
+
+
+
+
+
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#SEASON 2019
+#KODIPROP:inputstream.adaptive.license_key=c10d90febe502a2b3360e64155fb6d10:b820058ce82bb0104d2c3ecabccf0003
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_ITANF_IVP_LAND_672x378_31DBB_20241130_41315.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2019
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ab11813f-a3ce-5fdc-9783-9c2509a441d8/default_primary.mpd
+
+#SEASON 2020
+#KODIPROP:inputstream.adaptive.license_key=711b3f676e4f46c93d40ce53fd4c6510:ce2a3ece80f75da5b9235a5d6c3662e1
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JCCCT_IVP_LAND_672x378_3DB43_20241130_1223.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2020 E01
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/592d08b3-4b51-5f9e-bc68-73e5c1232299/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=250c1f2b57e1b3a482cbc78b1311a510:721f851e4d5aba1fba1ef6088dcdaac1
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JCCCU_IVP_LAND_672x378_3DB44_20241130_1223.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2020 E02
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/4b3220a4-66c7-52dd-b0e8-661b31205ae7/default_primary.mpd
+
+#SEASON 2021
+#KODIPROP:inputstream.adaptive.license_key=809fe195ade304972936f797fc9d9910:ab4b79a8e8f775535044573f9c531ec7
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSNJA_IVP_LAND_672x378_4B800_20241130_11240.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2021 E01
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/22ef0af6-21ce-51c4-bb2e-f6b75baba081/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=df1d7856e815ce0cf6b9a25b3ee97910:efc616b65eb17f361d5be8990e62d9a6
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSNJB_IVP_LAND_672x378_4B801_20241130_11240.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2021 E02
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fa45c2a3-3a50-5305-8b31-c7de7916dc52/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=f705781b80fed9a78cf5cb24119b5610:4a598d40e12d4bb052350f3ed44f3413
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSNJC_IVP_LAND_672x378_4B802_20241130_11240.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2021 E03
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c78ac030-9e47-572d-b662-40c4efbafe0e/default_primary.mpd
+
+#SEASON 2022
+#KODIPROP:inputstream.adaptive.license_key=db3a8c6c20787945daf1d7bb60c10e10:d3016f5b94b462494e6b65ade6a7839b
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAHVE_IVP_LAND_672x378_5CA2A_20241129_211142.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2022
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f8c519cb-4462-50c4-8f9d-4bf864a9df87/default_primary.mpd
+
+#SEASON 2023
+#KODIPROP:inputstream.adaptive.license_key=0523574155c315076b9f15f04371e210:139c57548ce79e8abf8266794e658401
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRRV_IVP_LAND_672x378_6A89B_20241129_171613.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E01
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/766332d6-44cb-584f-8bcb-3e77a8d4840a/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=484377449818c64d1c9a8c2de18fb210:da6ac3149a52f79dab2528d06516a743
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRRW_IVP_LAND_672x378_6A89C_20241129_171613.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E02
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ddc6eec0-0a77-5376-b506-a46896027c10/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.
+
+license_key=3aec3604a5016ab23749d29e7a9a6110:f306de16dee67399861c6a61fb363d2a
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRRX_IVP_LAND_672x378_6A89D_20241129_171613.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E03
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6a956fda-f24e-57d5-998b-1c7c9b4a2f4c/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=56aaadc0247aef66daddf73cdd360a10:7bde0bbecbce18d58c526fae02588529
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRRY_IVP_LAND_672x378_6A89E_20241129_171625.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E04
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/be184ef7-a908-56e8-9a4d-c72c6417c84d/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=a9e50986510c2cc63d4d42ab53e50a10:ac922e96403f3106c090221a3f02c3b5
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRRZ_IVP_LAND_672x378_6A89F_20241129_171625.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E05
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/59c4480e-22ce-5568-88b0-4c02f16d38c4/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=feb1b5ac64e18dac8fbf09d99cff4010:5bb097b2d8d43f22761ee2251100d86a
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRSA_IVP_LAND_672x378_6A8A0_20241129_171625.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E06
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/51f8abff-278b-5fe9-8b49-f8d91d4ceac4/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=e32463d7ce372f9580e491a430e99910:2d2f4bc2cf527ef60c5331c3585623a6
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRSB_IVP_LAND_672x378_6A8A1_20241129_171625.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E07
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/560e698d-79d0-59f3-ba67-211b1aacf29e/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=8b32c938fcf80be2baa20fa672ee0810:8699775f07d199d614e4630979e7ef89
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRSC_IVP_LAND_672x378_6A8A2_20241129_171625.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E08
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a683dc81-4554-5dec-b5c0-d34e86b11796/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=a6ed415422e4ce7359f392a3fcae3810:e728e3974f896b0a73e37a74d11e328d
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRSD_IVP_LAND_672x378_6A8A3_20241129_171637.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E09
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e9793337-78fa-5974-ae0f-06eeef2aa850/default_primary.mpd
+
+#SEASON 2024
+#KODIPROP:inputstream.adaptive.license_key=63c1c43bed9ba29d071e5a0838a06510:b960db3f36240195bc08035d6456a317
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMAKL_IVP_LAND_672x378_777FE_20241129_172447.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2024 E01
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1660b286-c94f-54b3-b22b-426a1e3b87cf/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=9561c82415cdba37529771584d33a310:28fa3166fb5c45f87f692eaae1129423
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMAKS_IVP_LAND_672x378_77800_20241129_172447.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2024 E02
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6fd79dd5-0128-5fbc-b928-d942b96cd7c0/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=6cc59e1ffaaba94a1d81debad1cffc10:12eedf76755b30a2faef2decc8eccb7c
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#SEASON 2019
+#KODIPROP:inputstream.adaptive.license_key=c10d90febe502a2b3360e64155fb6d10:b820058ce82bb0104d2c3ecabccf0003
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_ITANF_IVP_LAND_672x378_31DBB_20241130_41315.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2019
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ab11813f-a3ce-5fdc-9783-9c2509a441d8/default_primary.mpd
+
+#SEASON 2020
+#KODIPROP:inputstream.adaptive.license_key=711b3f676e4f46c93d40ce53fd4c6510:ce2a3ece80f75da5b9235a5d6c3662e1
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JCCCT_IVP_LAND_672x378_3DB43_20241130_1223.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2020 E01
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/592d08b3-4b51-5f9e-bc68-73e5c1232299/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=250c1f2b57e1b3a482cbc78b1311a510:721f851e4d5aba1fba1ef6088dcdaac1
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JCCCU_IVP_LAND_672x378_3DB44_20241130_1223.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2020 E02
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/4b3220a4-66c7-52dd-b0e8-661b31205ae7/default_primary.mpd
+
+#SEASON 2021
+#KODIPROP:inputstream.adaptive.license_key=809fe195ade304972936f797fc9d9910:ab4b79a8e8f775535044573f9c531ec7
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSNJA_IVP_LAND_672x378_4B800_20241130_11240.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2021 E01
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/22ef0af6-21ce-51c4-bb2e-f6b75baba081/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=df1d7856e815ce0cf6b9a25b3ee97910:efc616b65eb17f361d5be8990e62d9a6
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSNJB_IVP_LAND_672x378_4B801_20241130_11240.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2021 E02
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fa45c2a3-3a50-5305-8b31-c7de7916dc52/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=f705781b80fed9a78cf5cb24119b5610:4a598d40e12d4bb052350f3ed44f3413
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSNJC_IVP_LAND_672x378_4B802_20241130_11240.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2021 E03
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c78ac030-9e47-572d-b662-40c4efbafe0e/default_primary.mpd
+
+#SEASON 2022
+#KODIPROP:inputstream.adaptive.license_key=db3a8c6c20787945daf1d7bb60c10e10:d3016f5b94b462494e6b65ade6a7839b
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KAHVE_IVP_LAND_672x378_5CA2A_20241129_211142.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2022
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f8c519cb-4462-50c4-8f9d-4bf864a9df87/default_primary.mpd
+
+#SEASON 2023
+#KODIPROP:inputstream.adaptive.license_key=0523574155c315076b9f15f04371e210:139c57548ce79e8abf8266794e658401
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRRV_IVP_LAND_672x378_6A89B_20241129_171613.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E01
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/766332d6-44cb-584f-8bcb-3e77a8d4840a/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=484377449818c64d1c9a8c2de18fb210:da6ac3149a52f79dab2528d06516a743
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRRW_IVP_LAND_672x378_6A89C_20241129_171613.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E02
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ddc6eec0-0a77-5376-b506-a46896027c10/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.
+
+license_key=3aec3604a5016ab23749d29e7a9a6110:f306de16dee67399861c6a61fb363d2a
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRRX_IVP_LAND_672x378_6A89D_20241129_171613.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E03
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6a956fda-f24e-57d5-998b-1c7c9b4a2f4c/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=56aaadc0247aef66daddf73cdd360a10:7bde0bbecbce18d58c526fae02588529
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRRY_IVP_LAND_672x378_6A89E_20241129_171625.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E04
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/be184ef7-a908-56e8-9a4d-c72c6417c84d/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=a9e50986510c2cc63d4d42ab53e50a10:ac922e96403f3106c090221a3f02c3b5
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRRZ_IVP_LAND_672x378_6A89F_20241129_171625.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E05
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/59c4480e-22ce-5568-88b0-4c02f16d38c4/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=feb1b5ac64e18dac8fbf09d99cff4010:5bb097b2d8d43f22761ee2251100d86a
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRSA_IVP_LAND_672x378_6A8A0_20241129_171625.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E06
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/51f8abff-278b-5fe9-8b49-f8d91d4ceac4/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=e32463d7ce372f9580e491a430e99910:2d2f4bc2cf527ef60c5331c3585623a6
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRSB_IVP_LAND_672x378_6A8A1_20241129_171625.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E07
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/560e698d-79d0-59f3-ba67-211b1aacf29e/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=8b32c938fcf80be2baa20fa672ee0810:8699775f07d199d614e4630979e7ef89
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRSC_IVP_LAND_672x378_6A8A2_20241129_171625.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E08
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a683dc81-4554-5dec-b5c0-d34e86b11796/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=a6ed415422e4ce7359f392a3fcae3810:e728e3974f896b0a73e37a74d11e328d
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGRSD_IVP_LAND_672x378_6A8A3_20241129_171637.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2023 E09
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e9793337-78fa-5974-ae0f-06eeef2aa850/default_primary.mpd
+
+#SEASON 2024
+#KODIPROP:inputstream.adaptive.license_key=63c1c43bed9ba29d071e5a0838a06510:b960db3f36240195bc08035d6456a317
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMAKL_IVP_LAND_672x378_777FE_20241129_172447.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2024 E01
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1660b286-c94f-54b3-b22b-426a1e3b87cf/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=9561c82415cdba37529771584d33a310:28fa3166fb5c45f87f692eaae1129423
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMAKS_IVP_LAND_672x378_77800_20241129_172447.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2024 E02
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6fd79dd5-0128-5fbc-b928-d942b96cd7c0/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=6cc59e1ffaaba94a1d81debad1cffc10:12eedf76755b30a2faef2decc8eccb7c
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.
+
+my/prod/IVP(STB_OTT_STV)_KMAKR_IVP_LAND_672x378_77801_20241129_172447.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2024 E03
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/740bb444-eb81-512c-85b0-52571b951a83/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=79e999690d49eeb156ee733aeb139d10:2f4accdfbcbabdd1f9782ef0d66c6518
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMAKQ_IVP_LAND_672x378_77802_20241129_172457.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2024 E04
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/efce3ddd-f152-59c9-aa28-5a245e7d37f5/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=01a6787c4e7bb5cef464f43f4bd57a10:3a5acf8c37c0f23beef8da308690194d
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMAKP_IVP_LAND_672x378_77803_20241129_172457.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2024 E05
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/51a94bd2-3457-51a2-ac91-1ad05504f2dd/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_key=43b9b049605e53e7b400b924f5306810:024f26e890b36d2bd0e1472197283626
+#EXTINF:-1 type="series" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMAKO_IVP_LAND_672x378_77804_20241129_172457.jpg" group-title="SEahtu Reunion",SEahtu Reunion 2024 E06
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv
