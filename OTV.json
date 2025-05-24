@@ -1979,5 +1979,158 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Travelawak: Projek Bapak Bapak S4",
+    "category": "TV Series",
+    "info": {
+      "plot": "Siri komedi yang mengisahkan kehidupan dan cabaran projek Bapak Bapak dalam suasana santai dan kelakar.",
+      "poster": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRFUW_series_IVP_LAND_586x330_72130_2025310_105835.jpg",
+      "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRFUW_IVP_LAND_672x378_82F71_2025326_1854.jpg",
+      "rating": 0,
+      "year": 2025,
+      "genre": [
+        "Comedy"
+      ]
+    },
+    "seasons": [
+      {
+        "season": 4,
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Travelawak: Projek Bapak Bapak S4 Ep01",
+            "info": {
+              "plot": "Episod pembukaan yang memperkenalkan watak-watak utama dan cabaran baru mereka dalam projek musim keempat.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/0cdaa92e-2876-5722-9f87-9ccd7fe0bbac/default_primary.mpd",
+            "drmkey": "1c31b30aad263731bc815a2f3bde4510:2f2d7c177562b62f59388f87266a3256",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 2,
+            "name": "Travelawak: Projek Bapak Bapak S4 Ep02",
+            "info": {
+              "plot": "Konflik dan situasi lucu berlaku apabila projek mereka mula berhadapan dengan masalah teknikal dan personaliti berbeza.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/59876236-e32f-563f-b610-7f4c326a5f4d/default_primary.mpd",
+            "drmkey": "b450f1ed62468034c057cd1683a68b10:fa58af679b64c9295fd3d31fba224b17",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 3,
+            "name": "Travelawak: Projek Bapak Bapak S4 Ep03",
+            "info": {
+              "plot": "Watak utama cuba mencari penyelesaian kreatif untuk menangkis masalah yang mengganggu kelancaran projek.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/cc99f2ec-06af-579d-a09b-456c7b457fb7/default_primary.mpd",
+            "drmkey": "e8ed9a7f4bc41088ebcb0d34aabe3f10:4c8bd5c3595219054b03857deb180812",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 4,
+            "name": "Travelawak: Projek Bapak Bapak S4 Ep04",
+            "info": {
+              "plot": "Momen-momen kelakar muncul apabila watak-watak terpaksa bekerjasama walaupun berbeza pandangan demi kejayaan projek.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/250f5205-e917-51a3-a4e1-64826cc161d9/default_primary.mpd",
+            "drmkey": "0a1b7e54bcc436c4d54131e8181ac110:768f92ccdcb713b8a0e52c2fe0c14855",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 5,
+            "name": "Travelawak: Projek Bapak Bapak S4 Ep05",
+            "info": {
+              "plot": "Watak utama menghadapi cabaran baru yang menguji kesabaran dan kreativiti mereka dalam projek ini.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/79031064-aa4e-5ea1-b906-d946e59a354b/default_primary.mpd",
+            "drmkey": "7f741a4d12775f4ce2ddcde77ba33210:97566f6c10983ba310c8c76a56d1b5b1",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 6,
+            "name": "Travelawak: Projek Bapak Bapak S4 Ep06",
+            "info": {
+              "plot": "Satu kejutan berlaku apabila ada watak yang muncul dan mengubah dinamika kumpulan secara tak diduga.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/c4370483-76b5-538a-8dd8-d0ef684fcaee/default_primary.mpd",
+            "drmkey": "bf8c7d545d77fcef5f21675fadb06510:1235cbfe0943336335dfac588493f328",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 7,
+            "name": "Travelawak: Projek Bapak Bapak S4 Ep07",
+            "info": {
+              "plot": "Kisah persahabatan diuji apabila salah faham berlaku, menyebabkan situasi kelakar dan menyentuh hati.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/644bfba9-3a82-5211-b8f0-20cdcfcbb1b0/default_primary.mpd",
+            "drmkey": "7d2bbe8fd619cd4cd6509a2ee068a410:2bbb168982b8f6b2332cb51c4a3549d3",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 8,
+            "name": "Travelawak: Projek Bapak Bapak S4 Ep08",
+            "info": {
+              "plot": "Projek menghadapi halangan besar yang memerlukan semua ahli bersatu dan gunakan akal untuk berjaya.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b22161a7-d48c-5ffb-a2ab-58406ed3c0b3/default_primary.mpd",
+            "drmkey": "3828fa3f32bbb8a91592cb7b8520bc10:572b884e5d0587fc6d2492da725dcbcf",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 9,
+            "name": "Travelawak: Projek Bapak Bapak S4 Ep09",
+            "info": {
+              "plot": "Situasi lucu timbul apabila watak-watak cuba mengatasi masalah secara spontan dan penuh kelakar.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/eed81653-5d3a-51f6-b470-09cb39c5ded1/default_primary.mpd",
+            "drmkey": "3c6cec88b50fd779872e55b14d70c210:4e34796338442544a6668749461ee210",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 10,
+            "name": "Travelawak: Projek Bapak Bapak S4 Ep10",
+            "info": {
+              "plot": "Momen penuh emosi apabila watak-watak menghadapi dilema peribadi sambil meneruskan projek mereka.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9133342f-410d-5186-bcf2-bd302cefb0bd/default_primary.mpd",
+            "drmkey": "dd18d84adf80f811b3a64bd7a70c1d10:4a7a483ae4143b3e23e94eb706378122",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 11,
+            "name": "Travelawak: Projek Bapak Bapak S4 Ep11",
+            "info": {
+              "plot": "Ketegangan meningkat apabila konflik lama muncul kembali, mengancam kerjasama kumpulan.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/007bdf9c-e9b2-503e-a713-10af8cbf00c2/default_primary.mpd",
+            "drmkey": "8ef6f41e54612ddff259184755477210:4baffe65b75db0deacdf3969c9c7f2da",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 12,
+            "name": "Travelawak: Projek Bapak Bapak S4 Ep12",
+            "info": {
+              "plot": "Episod penutup yang menggabungkan segala cabaran dan kejayaan, menutup musim dengan penuh kelakar dan inspirasi.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/cee64039-cf85-5e4a-b1bd-1873370549ca/default_primary.mpd",
+            "drmkey": "9324c5c1b15a66638e158ac9e64f1210:50a67642c912e7b322ab4b9daecec1f3",
+            "drm": "clearkey"
+          }
+        ]
+      }
+    ]
   }
 ]
