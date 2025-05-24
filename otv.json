@@ -1,16 +1,16 @@
 [
-  {
-    "name": "Sepahtu Reunion Kecoh Beraya",
-    "category": "TV Series",
-    "info": {
-      "plot": "A comedy series featuring the antics and reunion of the Sepahtu group during the festive season.",
-      "poster": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_series_p_IVP_PORT_390x585_84192_2025421_144730.jpg",
-      "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_IVP_LAND_672x378_84192_2025421_144726.jpg",
-      "rating": "",
-      "year": 2025,
-      "genre": [
-        "Comedy"
-      ]
+{
+  "name": "Sepahtu Reunion Kecoh Beraya",
+  "category": "TV Series",
+  "info": {
+    "plot": "A comedy series featuring the antics and reunion of the Sepahtu group during the festive season.",
+    "poster": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_series_p_IVP_PORT_390x585_84192_2025421_144730.jpg",
+    "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRUDY_IVP_LAND_672x378_84192_2025421_144726.jpg",
+    "rating": "",
+    "year": 2025,
+    "genre": [
+      "Comedy"
+    ]
     },
     "seasons": [
       {
