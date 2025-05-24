@@ -14,6 +14,7 @@
     },
     "seasons": [
       {
+        "season_number": 1,
         "episodes": [
           {
             "episode_number": 1,
@@ -1799,6 +1800,71 @@
             "drmkey": "8d9c146658d6a30e6184d114da1e7f10:eac37519949c54dee1023fab9c05b851",
             "poster": "",
             "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSJDN_IVP_LAND_672x378_85987_2025523_20503.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dia Bukan Syurga",
+    "category": "TV Series",
+    "info": {
+      "plot": "Mengisahkan konflik dan kisah keluarga yang penuh liku, di mana setiap watak menghadapi cabaran hidup mereka sendiri dalam mencari erti kasih sayang dan pengorbanan.",
+      "poster": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_IVP_LAND_672x378_85AB5_2025523_135647.jpg",
+      "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_IVP_LAND_672x378_85AB5_2025523_135647.jpg",
+      "rating": 0,
+      "year": 2025,
+      "genre": [
+        "Drama"
+      ]
+    },
+    "seasons": [
+      {
+        "season": 0,
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Dia Bukan Syurga Ep01",
+            "info": {
+              "plot": "Episod pertama membuka kisah dengan memperkenalkan watak utama dan konflik yang akan datang, memperlihatkan pertembungan emosi dalam keluarga.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/08238861-5f87-5894-a74f-21baefed1423/default_primary.mpd",
+            "drmkey": "119ee0432d74e05a817f9f9d8b4dba10:6cb266d36a7686d2c83c7c98182c12f8",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 2,
+            "name": "Dia Bukan Syurga Ep02",
+            "info": {
+              "plot": "Kisah semakin mendalam dengan pendedahan konflik dalaman watak dan kesan pada hubungan kekeluargaan.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/fb001c08-5c6d-5b5f-b7b9-aa6aae091315/default_primary.mpd",
+            "drmkey": "88771fd4d8131d73127ab43e9c7aa310:b31d8c40558a5b62d4a2509a46ebe407",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 3,
+            "name": "Dia Bukan Syurga Ep03",
+            "info": {
+              "plot": "Konflik memuncak apabila watak-watak utama berhadapan dengan dilema dan keputusan penting dalam hidup mereka.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/63daa4fe-8624-5d61-b89b-8f767111f20d/default_primary.mpd",
+            "drmkey": "296f9da92244da738cdc9eeaa5d04b10:c18211e7565be7ba858288fb2297ddaf",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 4,
+            "name": "Dia Bukan Syurga Ep04",
+            "info": {
+              "plot": "Episod ini menyaksikan penceritaan yang semakin rumit dengan pendedahan rahsia dan impak pada hubungan sesama keluarga.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6679ce39-e3bc-50b4-8850-5c3063aa7b56/default_primary.mpd",
+            "drmkey": "63d5ed0240a94d81e2987d19fefbd610:8ddcd12e34684707c6d2c5d05aa613d8",
+            "drm": "clearkey"
           }
         ]
       }
