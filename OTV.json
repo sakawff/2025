@@ -2758,5 +2758,82 @@
         ]
       }
     ]
-  }
+  },
+  {
+  "name": "Dzikir",
+  "category": "TV Series",
+  "info": {
+    "plot": "Siri drama yang mengisahkan kisah penuh emosi dan penghayatan melalui amalan dzikir dan kehidupan seharian watak-watak utama.",
+    "poster": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_IVP_LAND_586x330_85B3C_2025519_154349.jpg",
+    "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_IVP_LAND_672x378_85B3D_2025523_10355.jpg",
+    "rating": 0,
+    "year": 2025,
+    "genre": [
+      "Drama"
+    ]
+  },
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "episode": 1,
+          "name": "Dzikir Ep01",
+          "info": {
+            "plot": "Pengenalan kepada watak dan penghayatan awal dalam amalan dzikir.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b4b51ed1-24e3-585b-962a-871ccbdfeb32/default_primary.mpd",
+          "drmkey": "c380dad7ab9a9586d62568d90ea5d210:ea3259a0ae83f656c1b1286261150c06",
+          "drm": "clearkey"
+        },
+        {
+          "episode": 2,
+          "name": "Dzikir Ep02",
+          "info": {
+            "plot": "Konflik dan pengajaran dalam meneruskan amalan dzikir dalam kehidupan seharian.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2ca620c9-5d2b-5f93-a1ae-31fd0c75bbe8/default_primary.mpd",
+          "drmkey": "3d1955961d8b310bcc338d3505541310:eff44286cc6fe69ac2806fa3acca2a52",
+          "drm": "clearkey"
+        },
+        {
+          "episode": 3,
+          "name": "Dzikir Ep03",
+          "info": {
+            "plot": "Perkembangan hubungan dan cabaran dalam pengamalan dzikir.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b644744f-c88f-5f47-87ff-8d9f6178af86/default_primary.mpd",
+          "drmkey": "edcdeec722244f341e97692d1e1a5f10:9caeaea673b47a02589e441c0deacd78",
+          "drm": "clearkey"
+        },
+        {
+          "episode": 4,
+          "name": "Dzikir Ep04",
+          "info": {
+            "plot": "Ujian dan kekuatan dalam mengekalkan amalan dzikir dan keimanan.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2cf54257-7af7-5edf-8c5c-69bcc69323b6/default_primary.mpd",
+          "drmkey": "9bec41b88f702b85021bf8509b9b3210:f23cff2bdb7713572e981787a3b1fa00",
+          "drm": "clearkey"
+        },
+        {
+          "episode": 5,
+          "name": "Dzikir Ep05",
+          "info": {
+            "plot": "Kesimpulan dan pengajaran akhir dalam perjalanan spiritual watak-watak.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9b9ee204-b8b6-5933-b552-515aed8c2db6/default_primary.mpd",
+          "drmkey": "f81d704988ec1dcdfb39ced7e8be4d10:2856a63acd87b4bbde97157dc57c06ee",
+          "drm": "clearkey"
+        }
+      ]
+    }
+  ]
+}
+
 ]
