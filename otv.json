@@ -2687,5 +2687,137 @@
         ]
       }
     ]
-  }
+  },
+  {
+  "name": "Sepahtu Reunion Live S10",
+  "category": "TV Series",
+  "info": {
+    "plot": "Siri komedi popular yang menampilkan pelbagai segmen lawak dan hiburan oleh kumpulan Sepahtu dan tetamu mereka.",
+    "poster": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQVTS_series_IVP_LAND_672x378_2B689_2025221_92941.jpg",
+    "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQVTS_IVP_LAND_672x378_81CAB_2025218_6930.jpg",
+    "rating": 0,
+    "year": 2025,
+    "genre": [
+      "Comedy"
+    ]
+  },
+  "seasons": [
+    {
+      "season": 10,
+      "episodes": [
+        {
+          "episode": 1,
+          "name": "Sepahtu Reunion Live S10 Ep01",
+          "info": {
+            "plot": "Pembukaan musim dengan pelbagai segmen lawak dan interaksi bersama penonton.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b84cbdcd-4cca-56c5-b766-b08fd4e1c1be/default_primary.mpd",
+          "drmkey": "3332fdc0d2b97f51ce9f67f71acd2810:7b60f9d161b25c91296403ac21cefd7b",
+          "drm": "clearkey"
+        },
+        {
+          "episode": 2,
+          "name": "Sepahtu Reunion Live S10 Ep02",
+          "info": {
+            "plot": "Kejutan dan segmen lawak terbaru bersama barisan pelawak Sepahtu.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/0f715117-c4b0-5f9a-8640-b3168b7c9020/default_primary.mpd",
+          "drmkey": "955bbf09fbf9a181181b58968dc8eb10:727a9257e4e0d9489a7496835313969b",
+          "drm": "clearkey"
+        },
+        {
+          "episode": 3,
+          "name": "Sepahtu Reunion Live S10 Ep03",
+          "info": {
+            "plot": "Lawak segar dan interaksi mesra dengan penonton.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/cc9ee387-836b-5d76-bb2f-9c3881961188/default_primary.mpd",
+          "drmkey": "4f10bbd74f6579f849ce37d75a492c10:afda4f3f90d1dee1f750034981be11ae",
+          "drm": "clearkey"
+        },
+        {
+          "episode": 4,
+          "name": "Sepahtu Reunion Live S10 Ep04",
+          "info": {
+            "plot": "Segmen komedi tanpa sari kata, penuh gelak tawa dan hiburan.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/52cb4d02-f4bf-558d-9242-79866ae8f594/default_primary.mpd",
+          "drmkey": "e66f08c91041cdd55a28135acad34e10:bbb6d178e82cf82e9dae3b331d819553",
+          "drm": "clearkey"
+        },
+        {
+          "episode": 5,
+          "name": "Sepahtu Reunion Live S10 Ep05",
+          "info": {
+            "plot": "Lawak jenaka dan persembahan menarik dari Sepahtu dan tetamu.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b5f31699-6362-5e41-b383-94adcc4acdac/default_primary.mpd",
+          "drmkey": "e7b19697110e0c0a9cada39e4b20bc10:584b22896d2e21403bf169e20b64f406",
+          "drm": "clearkey"
+        },
+        {
+          "episode": 6,
+          "name": "Sepahtu Reunion Live S10 Ep06",
+          "info": {
+            "plot": "Gabungan lawak dan aktiviti menarik bersama penonton.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/afeb5084-d76a-5f6f-ac51-d492003fa565/default_primary.mpd",
+          "drmkey": "f160a10868de01f1e7a7e4f832fcff10:dc9d83f4ee901133d26906b83865e6ea",
+          "drm": "clearkey"
+        },
+        {
+          "episode": 7,
+          "name": "Sepahtu Reunion Live S10 Ep07",
+          "info": {
+            "plot": "Segmen lawak santai dengan pelbagai peristiwa menarik.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/8ae0472d-73ce-56e6-9f3b-88fc81a85e56/default_primary.mpd",
+          "drmkey": "5d8efea494a7e656efe8555e2909b610:4614a428e3fa432937fcc3c6e767e0e2",
+          "drm": "clearkey"
+        },
+        {
+          "episode": 8,
+          "name": "Sepahtu Reunion Live S10 Ep08",
+          "info": {
+            "plot": "Gelak ketawa berterusan dengan idea lawak terbaru Sepahtu.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/c15d9753-ef21-5c6f-8dee-0d57ce41064f/default_primary.mpd",
+          "drmkey": "931dccb5f2ef5efa35fa47f6ce031d10:b3dddcb58e4d2fefdf7df6d3d8f00a44",
+          "drm": "clearkey"
+        },
+        {
+          "episode": 9,
+          "name": "Sepahtu Reunion Live S10 Ep09",
+          "info": {
+            "plot": "Lawak segar dan interaksi menarik bersama tetamu khas.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6a7008dd-aa93-597e-9936-9e3c3f3a50cd/default_primary.mpd",
+          "drmkey": "0206f63e43826b11ddd41ffe1a654e10:28bd1e1e6c8e182f7b31e46febc82d3d",
+          "drm": "clearkey"
+        },
+        {
+          "episode": 10,
+          "name": "Sepahtu Reunion Live S10 Ep10",
+          "info": {
+            "plot": "Penutup musim dengan lawak jenaka dan aktiviti hiburan menarik.",
+            "cast": []
+          },
+          "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6a3e0b5e-e445-5ed5-8219-ca98831ba0ad/default_primary.mpd",
+          "drmkey": "eead9d0d5f8d929480f8c27224dd4310:6792cb07a6d069d1266de497dda99fb4",
+          "drm": "clearkey"
+        }
+      ]
+    }
+  ]
+}
+
 ]
