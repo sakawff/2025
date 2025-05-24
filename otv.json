@@ -1810,8 +1810,8 @@
     "category": "TV Series",
     "info": {
       "plot": "Mengisahkan konflik dan kisah keluarga yang penuh liku, di mana setiap watak menghadapi cabaran hidup mereka sendiri dalam mencari erti kasih sayang dan pengorbanan.",
-      "poster": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_IVP_LAND_586x330_85AB3_2025516_95548.jpg",
-      "backdrop": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_IVP_LAND_586x330_85AB3_2025516_95548.jpg",
+      "poster": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_IVP_LAND_672x378_85AB5_2025523_135647.jpg",
+      "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_IVP_LAND_672x378_85AB5_2025523_135647.jpg",
       "rating": 0,
       "year": 2025,
       "genre": [
@@ -1864,6 +1864,116 @@
             },
             "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6679ce39-e3bc-50b4-8850-5c3063aa7b56/default_primary.mpd",
             "drmkey": "63d5ed0240a94d81e2987d19fefbd610:8ddcd12e34684707c6d2c5d05aa613d8",
+            "drm": "clearkey"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "First Wives",
+    "category": "TV Series",
+    "info": {
+      "plot": "Mengisahkan konflik dan kehidupan wanita yang menghadapi pelbagai liku dan cabaran dalam perkahwinan serta keluarga mereka.",
+      "poster": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPVTI_IVP_LAND_672x378_84A8F_2025523_111010.jpg",
+      "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPVTI_IVP_LAND_672x378_84A8F_2025523_111010.jpg",
+      "rating": 0,
+      "year": 2025,
+      "genre": [
+        "Drama",
+        "Series"
+      ]
+    },
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "First Wives Ep01",
+            "info": {
+              "plot": "Episod pertama memperkenalkan watak utama dan konflik yang menjadi teras cerita.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/24b53e8f-073c-5345-a598-9f60ce22caa6/default_primary.mpd",
+            "drmkey": "a36fe0a7c069d25db4c4e662f8f6e210:a31bf3567cf87a360e11776d1e3d7419",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 2,
+            "name": "First Wives Ep02",
+            "info": {
+              "plot": "Cerita berlanjut dengan konflik yang semakin memuncak dan pengenalan watak baru.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/87a53a80-b787-536f-b4b8-7c5fabf93579/default_primary.mpd",
+            "drmkey": "2113ac5e579b24229c54adb9183e5010:a19fd216fdc32a6cee6be92f3a1054ae",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 3,
+            "name": "First Wives Ep03",
+            "info": {
+              "plot": "Konflik semakin menjadi dan watak-watak diuji dalam hubungan mereka.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/5a7c7d0b-f4df-5588-b3b7-11870a9377c8/default_primary.mpd",
+            "drmkey": "fc6bfb5009c8e790251591f84389b210:b36f8b5ec7791ae5e6f12a01cb4b0ac7",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 4,
+            "name": "First Wives Ep04",
+            "info": {
+              "plot": "Pertarungan emosi antara watak utama semakin hangat dengan pelbagai kejutan.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a8de9380-9a1d-5815-9596-88a26578e3a3/default_primary.mpd",
+            "drmkey": "6b182bec49f771cd86ab5c3305f83610:6e331704504de065903bf5f562bffadd",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 5,
+            "name": "First Wives Ep05",
+            "info": {
+              "plot": "Kisah makin rumit apabila rahsia mula terbongkar.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ab409283-dd6d-508f-bc18-174635b3a569/default_primary.mpd",
+            "drmkey": "e45d1a11244f2edee633ca84422b8910:bf4bd2675bae5d46dcca12de89c95713",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 6,
+            "name": "First Wives Ep06",
+            "info": {
+              "plot": "Watak diuji dengan pelbagai cabaran hidup dan pilihan sukar.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b60ddb71-eb95-5cc0-b4cc-01f6c0b8b7f3/default_primary.mpd",
+            "drmkey": "14bc2615c36b6d7f888c11d18d18f410:0bfb59a9494be180d9d091803a773978",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 7,
+            "name": "First Wives Ep07",
+            "info": {
+              "plot": "Konflik semakin memuncak dan emosi semakin tidak stabil.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/d00cc01c-b411-51f8-b81f-7bd1f64cf925/default_primary.mpd",
+            "drmkey": "8c6602df2db496ddfe5a8d8e75051210:ba12317e369bed49aee7dafcd9274350",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 8,
+            "name": "First Wives Ep08",
+            "info": {
+              "plot": "Episod penutup musim ini dengan resolusi dan penyingkiran konflik.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/165b2f3d-3524-5b49-bdea-63b876a6252a/default_primary.mpd",
+            "drmkey": "841725eacbc0226761d7816b63ff6710:274166919e06e73213a93bbe439fa19a",
             "drm": "clearkey"
           }
         ]
