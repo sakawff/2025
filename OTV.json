@@ -2132,5 +2132,631 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Dendam Seorang Madu",
+    "category": "TV Series",
+    "info": {
+      "plot": "Siri drama yang mengisahkan kisah penuh dendam dan konflik dalam sebuah keluarga yang terlibat dengan isu madu.",
+      "poster": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRDTL_series_IVP_LAND_586x330_8321B_2025228_17949.jpg",
+      "backdrop": "http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRDTL_IVP_LAND_672x378_83264_202535_125721.jpg",
+      "rating": 0,
+      "year": 2025,
+      "genre": [
+        "Drama"
+      ]
+    },
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Dendam Seorang Madu Ep01",
+            "info": {
+              "plot": "Pengenalan kepada watak-watak utama dan konflik utama yang memulakan dendam ini.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/86848c56-3148-5775-bb35-011dda45ccf0/default_primary.mpd",
+            "drmkey": "0e0e3f98abe523f47feb9f45eeda7d10:f8d1919e5ac31008c73c9e9554dc8552",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 2,
+            "name": "Dendam Seorang Madu Ep02",
+            "info": {
+              "plot": "Perkembangan plot dan ketegangan antara watak utama semakin memuncak.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/7ff0dedb-385f-5ac1-9049-0174aa620f6e/default_primary.mpd",
+            "drmkey": "ed6e1243ed78ac288fa26070768e0a10:5b6619f8438f4abfd7970ad153cce134",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 3,
+            "name": "Dendam Seorang Madu Ep03",
+            "info": {
+              "plot": "Konflik dalam keluarga semakin serius, menguji kesetiaan dan kepercayaan.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f6aefe4d-4974-5671-aef6-bdfca6f7f603/default_primary.mpd",
+            "drmkey": "db8f9a8593c9034e950672c4c6003110:8136d579232fb0454cfc21b0c5ed899e",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 4,
+            "name": "Dendam Seorang Madu Ep04",
+            "info": {
+              "plot": "Konflik menjadi semakin rumit dengan kemunculan watak baru.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/4d5e55ef-e754-566e-9e35-93923b8a549f/default_primary.mpd",
+            "drmkey": "87dc71eefaddbef64fffc4464dfc7d10:76a01d3203e92eca6ab8fd345ab11350",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 5,
+            "name": "Dendam Seorang Madu Ep05",
+            "info": {
+              "plot": "Ketegangan keluarga semakin meningkat, membawa kepada konfrontasi.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/c5ab7cac-8dd3-57b1-84f7-fb9908054431/default_primary.mpd",
+            "drmkey": "822b6529c5d3eaf47c7075db95d9dd10:9f1b450b17cff623b7db5c0c38afb320",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 6,
+            "name": "Dendam Seorang Madu Ep06",
+            "info": {
+              "plot": "Watak utama cuba mencari jalan penyelesaian tetapi dendam masih membara.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/0e58c93e-b54c-525b-9d39-576348c7791f/default_primary.mpd",
+            "drmkey": "6ec21c5a5511f58b64e6e677c934eb10:e0de81b9d12e7e629f426f8ffd424d35",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 7,
+            "name": "Dendam Seorang Madu Ep07",
+            "info": {
+              "plot": "Satu rahsia lama terdedah, mengubah segala-galanya.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/02140f41-3e93-5d2c-a620-de7ce3bf6752/default_primary.mpd",
+            "drmkey": "d8defbd489c1af8e11fa5a307a7fdf10:b049e400e1c171667700bfd15c60e22f",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 8,
+            "name": "Dendam Seorang Madu Ep08",
+            "info": {
+              "plot": "Dendam semakin membakar, watak-watak diuji tahap kesabaran mereka.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/4c9dced4-ec65-56cf-aa46-a64021e0d579/default_primary.mpd",
+            "drmkey": "d602bab9cb6bb7849b06f6e6c034e010:f51be1c3c3527f65f626241c802f9ceb",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 9,
+            "name": "Dendam Seorang Madu Ep09",
+            "info": {
+              "plot": "Konflik keluarga mencapai kemuncak, keputusan sukar harus dibuat.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/33110b1c-9312-5970-9b14-18739847016c/default_primary.mpd",
+            "drmkey": "56aba44c7a7c7d54ce67c04c0cca5610:1891b9863bebc2c1314c2c2d03aafb52",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 10,
+            "name": "Dendam Seorang Madu Ep10",
+            "info": {
+              "plot": "Satu tragedi berlaku yang merubah jalan cerita secara drastik.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/7d5fa27e-235c-57a0-b4a2-cf7a90430a8b/default_primary.mpd",
+            "drmkey": "45978df49fc0d1c578238337242e0110:7ea7cae535b684e1e7216e39410d303c",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 11,
+            "name": "Dendam Seorang Madu Ep11",
+            "info": {
+              "plot": "Watak mula menghadapi akibat tindakan mereka yang lalu.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/4d8012a2-846c-56f7-bcb8-387fc3fffbd6/default_primary.mpd",
+            "drmkey": "bc94e5ff0a2a596187910ccb45ce4810:7e4beefe06f55a0ca466a41e8373fe4b",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 12,
+            "name": "Dendam Seorang Madu Ep12",
+            "info": {
+              "plot": "Pertemuan yang mengubah segalanya dan membuka mata watak utama.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/98de2753-183d-57fd-90e2-ea129a5c95b1/default_primary.mpd",
+            "drmkey": "f5e72e2f5705d8810e5e95685164f410:f8c76c76c43fb2d95492c8ef52cbe23d",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 13,
+            "name": "Dendam Seorang Madu Ep13",
+            "info": {
+              "plot": "Konflik lama kembali menyerang dan membawa masalah baru.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/8119427e-4722-52dc-a80b-712db54b81ea/default_primary.mpd",
+            "drmkey": "48fbbaafd0de2b5bdb9abd0047a85010:337c5d1d3ddea7b6bedf0e07a70c7c21",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 14,
+            "name": "Dendam Seorang Madu Ep14",
+            "info": {
+              "plot": "Perancangan rapi dimulakan untuk menundukkan musuh dalam senyap.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/c444414a-49ab-52a3-82ad-f7db54fc121b/default_primary.mpd",
+            "drmkey": "99b8c9c7ac3efeca0701442418bb1e10:6b9f2337396ff0f8226eb5a197748c35",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 15,
+            "name": "Dendam Seorang Madu Ep15",
+            "info": {
+              "plot": "Ketegangan antara watak semakin meningkat menuju klimaks cerita.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a4d68757-c9a6-594e-a75b-372309592a79/default_primary.mpd",
+            "drmkey": "6834d68ce2911117d746400100d45c10:42d766df6453fa5cc34bffea37b1b51e",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 16,
+            "name": "Dendam Seorang Madu Ep16",
+            "info": {
+              "plot": "Keputusan sukar diambil untuk menyelesaikan dendam yang membara.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/81bdf4c1-cee0-54fa-9ffa-33eee7fedc7c/default_primary.mpd",
+            "drmkey": "4e5206f633ce314494478dbd187e0c10:9b18dbde5f119531562e98793ff6a3ba",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 17,
+            "name": "Dendam Seorang Madu Ep17",
+            "info": {
+              "plot": "Pertarungan emosi mencapai puncak, watak diuji kekuatan dalaman.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/fbbce163-c93a-5e8c-91d2-abfe0d7a3793/default_primary.mpd",
+            "drmkey": "45be2a41162324c0b289284d8bd52d10:feca1157ea4b984934f6dd1b758bdd28",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 18,
+            "name": "Dendam Seorang Madu Ep18",
+            "info": {
+              "plot": "Rahsia lama terbongkar dan membuka jalan baru dalam konflik keluarga.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/eec76d00-0b11-5db6-8652-cc58f0be4e74/default_primary.mpd",
+            "drmkey": "3a7ed36ffbb916cd438a67f2c762b710:f8923237c327f4ade6f693a30125c083",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 19,
+            "name": "Dendam Seorang Madu Ep19",
+            "info": {
+              "plot": "Ketegangan mencapai kemuncak, watak berhadapan dengan akibat pilihan mereka.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/72092457-a0e2-5fcf-a7c7-8750819c8a2b/default_primary.mpd",
+            "drmkey": "7ae3566ef766f95f12ecedc2c33a2310:2c6194a36a047dac625999aa3e2a0936",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 20,
+            "name": "Dendam Seorang Madu Ep20",
+            "info": {
+              "plot": "Konflik semakin memuncak dengan pendedahan mengejutkan.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/13f98c65-f267-5976-aa50-df0c03924b86/default_primary.mpd",
+            "drmkey": "a78f976153f55e0f75390965de99a310:b5a94ce8d21c600ecef2f198fd5c122d",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 21,
+            "name": "Dendam Seorang Madu Ep21",
+            "info": {
+              "plot": "Watak menghadapi akibat dari perbuatan mereka yang mengubah hidup.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/0d5f53f9-793e-5752-bfe4-ce7cd1a7cc02/default_primary.mpd",
+            "drmkey": "1a3a88af479d151f91ffca490c89d010:6dec3161a2146eaa665895d98f406611",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 22,
+            "name": "Dendam Seorang Madu Ep22",
+            "info": {
+              "plot": "Pertarungan sengit antara watak berterusan, tiada jalan mudah.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f2d39e1d-b0ce-57e0-bf24-8b34f4ba439b/default_primary.mpd",
+            "drmkey": "d695c25bf82666a5ef953d93376f7110:26fe637098af18377c6cfbbdeb39b461",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 23,
+            "name": "Dendam Seorang Madu Ep23",
+            "info": {
+              "plot": "Rahsia baru terbongkar menambah kerumitan cerita.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/5b549954-db69-5aa9-9250-ee18dde1fe60/default_primary.mpd",
+            "drmkey": "d8b870d4813ce627eb1b17536419da10:2fd9fb0c774e5bf34b30b79ee9661dce",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 24,
+            "name": "Dendam Seorang Madu Ep24",
+            "info": {
+              "plot": "Konflik berlanjutan, watak terpaksa membuat pilihan sukar.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1b61547a-5408-5c4f-aa05-359f74b1b405/default_primary.mpd",
+            "drmkey": "fd27a1c9bd0a3b058122220e5bcf2810:a6f4f1929358e5ef2da2c1055b044f85",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 25,
+            "name": "Dendam Seorang Madu Ep25",
+            "info": {
+              "plot": "Klimaks cerita dengan pendedahan yang menggoncang jiwa semua watak.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/512ef0cf-ab63-5e09-8c49-60b49ddc6d52/default_primary.mpd",
+            "drmkey": "3dbc10d1915dcb6b36b56b78ff8c7d10:68d6c4342d156aff7622ce417f907c86",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 26,
+            "name": "Dendam Seorang Madu Ep26",
+            "info": {
+              "plot": "Keputusan terakhir dibuat dalam mengakhiri dendam yang membelenggu.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9bcfe37b-87ae-5c3a-ab83-1f6404d4d1bc/default_primary.mpd",
+            "drmkey": "5c51d762fe9ed4328c02b6bb16c66010:5f4f3b6044d59cc96c53c93174e8462d",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 27,
+            "name": "Dendam Seorang Madu Ep27",
+            "info": {
+              "plot": "Kesudahan yang tidak disangka, menyelesaikan konflik dengan cara tersendiri.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1c0272d5-6af2-5d0c-8991-fde3ff1c37e7/default_primary.mpd",
+            "drmkey": "57054fd19e0a1ddf2508845427ed1010:9f1a9bc0de69a99af1145b0d5d5c0c30",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 28,
+            "name": "Dendam Seorang Madu Ep28",
+            "info": {
+              "plot": "Pengakhiran yang membuka lembaran baru bagi semua watak.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a8cc21f4-ce8b-52cd-8b8b-511d3edf3543/default_primary.mpd",
+            "drmkey": "fd4722327dc9ee55903b76d460689010:456c32cfc73e8cb219409ac29226cfd2",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 29,
+            "name": "Dendam Seorang Madu Ep29",
+            "info": {
+              "plot": "Satu penyelesaian yang damai dicari selepas segala konflik.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ef929b31-346b-58cc-bf24-e07325ec01a6/default_primary.mpd",
+            "drmkey": "389cd78a2d0bb80479bac1fcc6900410:4b24a31a56b755ca97a5ff2d5ac065ee",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 30,
+            "name": "Dendam Seorang Madu Ep30",
+            "info": {
+              "plot": "Penutup siri dengan penyelesaian dan pengajaran yang mendalam.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/87880ce5-e42e-5116-b5d3-1406366d2f82/default_primary.mpd",
+            "drmkey": "33f32b66ebbb1e94f9c43d1aef720910:b510915e95e96d79d160c16afde28cb8",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 31,
+            "name": "Dendam Seorang Madu Ep31",
+            "info": {
+              "plot": "Kisah semakin mendalam dengan pendedahan watak dan peristiwa baru.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a76201d5-446b-5c59-9774-71e5e024bb8a/default_primary.mpd",
+            "drmkey": "1afc30325f4e43b41f145d2ff4956610:cb0f8d97ef318b4095167c3724031d82",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 32,
+            "name": "Dendam Seorang Madu Ep32",
+            "info": {
+              "plot": "Ketegangan meningkat dengan konfrontasi yang tidak dapat dielakkan.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/d8273a18-60c0-551d-b358-39e8e12108fc/default_primary.mpd",
+            "drmkey": "21d8e38441f2c7b099a237ca6c147610:527a835afddcd13d54c13a3cc2a04b82",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 33,
+            "name": "Dendam Seorang Madu Ep33",
+            "info": {
+              "plot": "Satu rahsia besar terbongkar yang menggoncang emosi semua watak.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/dc3236a6-d380-540f-ba88-0c3d2ca04d1b/default_primary.mpd",
+            "drmkey": "f3a43dc26d18e705d65a1b8450491610:bd6975c8efc8e20b50df634beaf8417e",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 34,
+            "name": "Dendam Seorang Madu Ep34",
+            "info": {
+              "plot": "Perjalanan watak-watak membawa ke arah penyelesaian yang dinantikan.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/d4503c62-03a5-522c-a648-ed8214e1dd73/default_primary.mpd",
+            "drmkey": "21ae3d98beaaf81df4f42196b1678510:7e607fdacc12417cd14d68f971b35a2a",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 35,
+            "name": "Dendam Seorang Madu Ep35",
+            "info": {
+              "plot": "Konflik semakin memuncak dengan dilema yang menggugat hubungan.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/746bd70b-1995-50c0-b5ed-e5dae038aca0/default_primary.mpd",
+            "drmkey": "f4d2437c25dcf91f96c7011865f5f810:120de3a9726ba843c71efc2746b7baf5",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 36,
+            "name": "Dendam Seorang Madu Ep36",
+            "info": {
+              "plot": "Watak menghadapi cabaran baru yang menguji ketahanan mereka.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2de0f234-168e-5327-9293-2cf79cf2e98e/default_primary.mpd",
+            "drmkey": "1fc742b99ca8625b59f083b7405aad10:a2f7ef9d4ca05c35a3b2345e538b20fa",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 37,
+            "name": "Dendam Seorang Madu Ep37",
+            "info": {
+              "plot": "Konflik semakin memuncak dengan keputusan penting di ambang pintu.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/1a5f0c21-ac83-5fd2-9652-3ceefed370e8/default_primary.mpd",
+            "drmkey": "9eab9f2daec788020662e580b4ec5210:bd918fb9139114b06890aa3943f80c2b",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 38,
+            "name": "Dendam Seorang Madu Ep38",
+            "info": {
+              "plot": "Perkembangan mengejutkan yang membuka dimensi baru dalam konflik.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/f35895af-9f3c-54b0-ab39-dbcdaf0c691a/default_primary.mpd",
+            "drmkey": "5b50725b47537ef08a5c42a4c9961010:b488a5100eefa0e3619ab1c45a976886",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 39,
+            "name": "Dendam Seorang Madu Ep39",
+            "info": {
+              "plot": "Pertarungan antara watak semakin sengit dan berbahaya.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/91d966e5-c7e1-5e35-b6ec-893be0e1745d/default_primary.mpd",
+            "drmkey": "ed4f6415adb0ed52d22c44a4517c6710:971118c69c626a62ac7a8faf0c91d115",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 40,
+            "name": "Dendam Seorang Madu Ep40",
+            "info": {
+              "plot": "Satu kejutan besar mengubah arah cerita secara drastik.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2ba07551-7b5c-51d4-9dc1-9b98897fef83/default_primary.mpd",
+            "drmkey": "0458a52e77981ecf36696fba1ba92a10:dc414f470c241d61ab6b050c42ec85f6",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 41,
+            "name": "Dendam Seorang Madu Ep41",
+            "info": {
+              "plot": "Watak utama bergelut dengan keputusan yang membawa kesan besar.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/693d55b5-c508-5e50-9ac0-817d94fa8413/default_primary.mpd",
+            "drmkey": "38d1385aeea4dad1c4f5603c6af24310:98eff6a709fd80be7bd11bdbcf69801f",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 42,
+            "name": "Dendam Seorang Madu Ep42",
+            "info": {
+              "plot": "Konflik dalaman semakin mendalam dengan dilema sukar.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/904b919e-ef47-5b91-aec8-7b35332393fa/default_primary.mpd",
+            "drmkey": "2d049c9dcc50e15ca13077fce6faea10:4a5fe0daa63d6d1fd43a866cc19be6d0",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 43,
+            "name": "Dendam Seorang Madu Ep43",
+            "info": {
+              "plot": "Rahsia tersembunyi mula terdedah dan mengubah dinamik hubungan.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/8dee7d07-417f-565e-bdec-af96a4806107/default_primary.mpd",
+            "drmkey": "396b3a32ee4675140e04fa902e5e0410:e8164b65a0210c41b639e0d8665e3d77",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 44,
+            "name": "Dendam Seorang Madu Ep44",
+            "info": {
+              "plot": "Perancangan rahsia dibuat untuk mengatasi musuh.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/d9a693b8-a295-5981-97a9-7fad1454a3af/default_primary.mpd",
+            "drmkey": "4f14c4e2512304cdc288b1d661ab9c10:c27d27164fefd341b2bbd024d6547142",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 45,
+            "name": "Dendam Seorang Madu Ep45",
+            "info": {
+              "plot": "Konflik mencapai tahap kritikal dengan ketegangan maksimum.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/69e6bcaf-0f9c-5ce4-b3bf-46e4a7301b5b/default_primary.mpd",
+            "drmkey": "5ab6ef95e74826974bafb4e6f7488610:eaafc19a15878cbd5d7f406c7b5b10ba",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 46,
+            "name": "Dendam Seorang Madu Ep46",
+            "info": {
+              "plot": "Misi terakhir dimulakan untuk mengakhiri semua perselisihan.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/d2e8b690-59ad-5c0e-a511-e89c9306c504/default_primary.mpd",
+            "drmkey": "cc60cd0707ac2d8bae6df93aab101410:c28ba79e7ce966453348cb65aa10785d",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 47,
+            "name": "Dendam Seorang Madu Ep47",
+            "info": {
+              "plot": "Pertarungan terakhir yang menentukan nasib semua watak.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/06c68fbd-7fb9-5fc3-884d-5e2089afb674/default_primary.mpd",
+            "drmkey": "cd72ae4f1ef6d4b25cff227b154c2810:6de33c4335425bd2572dfdf81b8138a0",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 48,
+            "name": "Dendam Seorang Madu Ep48",
+            "info": {
+              "plot": "Klimaks siri yang penuh emosi dan pendedahan mengejutkan.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a3b7ffe5-c897-53d3-985a-1bc24270038c/default_primary.mpd",
+            "drmkey": "c5d5ee9e78216286d50a08bd70b92d10:2dd073e51ade1fd54016c9938e3f4fed",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 49,
+            "name": "Dendam Seorang Madu Ep49",
+            "info": {
+              "plot": "Watak menghadapi akibat dari pilihan mereka yang sukar.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/2762166f-60e7-5787-b92d-c8f16f5678b0/default_primary.mpd",
+            "drmkey": "b62d9198b1e5cd2bc961a1e2732f5a10:a56843736b82badf253ab990bc34076b",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 50,
+            "name": "Dendam Seorang Madu Ep50",
+            "info": {
+              "plot": "Penyelesaian perlahan-lahan muncul, membuka peluang baru.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/12090efa-5c7a-5d0e-848d-42e1c2fc9cfe/default_primary.mpd",
+            "drmkey": "73b425b7cc16c332cc824cf692e07310:fa9e0ead92ac25f859a9a34cd5dd9f2a",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 51,
+            "name": "Dendam Seorang Madu Ep51",
+            "info": {
+              "plot": "Emosi meluap dan keputusan yang mengubah hala tuju watak.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/87424617-857e-574e-a2ae-aa6e9d106f5c/default_primary.mpd",
+            "drmkey": "79bc5c1fea2fd22def12eef8a035d810:8614a1442f5102142565698999baa2a7",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 52,
+            "name": "Dendam Seorang Madu Ep52",
+            "info": {
+              "plot": "Ketegangan yang semakin membina sebelum penutup siri.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/cbe4c039-3b97-5b7c-b1d3-2db960198367/default_primary.mpd",
+            "drmkey": "24566117891135d8d28a4d1511991410:a06e4fc6b8f9f4f5d979f6efe38a4f9c",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 53,
+            "name": "Dendam Seorang Madu Ep53",
+            "info": {
+              "plot": "Pendedahan terakhir membawa kesudahan yang tidak dijangka.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/823c0963-f1df-5d68-b695-213d38c020c8/default_primary.mpd",
+            "drmkey": "07b7d8f13495e7a7a23179ade2c74e10:ca813c2f48560010c7bbbcfd99b90457",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 54,
+            "name": "Dendam Seorang Madu Ep54",
+            "info": {
+              "plot": "Pertarungan terakhir dan penutupan cerita yang memuaskan.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/34e9405c-2a7d-5341-a441-7911457b296d/default_primary.mpd",
+            "drmkey": "ff8e4c8de22c51707838d2141d1bb410:6de52f1a80c6030af09699734e316b50",
+            "drm": "clearkey"
+          },
+          {
+            "episode": 55,
+            "name": "Dendam Seorang Madu Ep55",
+            "info": {
+              "plot": "Kesimpulan drama penuh emosi dan pengajaran yang mendalam.",
+              "cast": []
+            },
+            "video": "https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/4e985e48-25db-5304-9321-6557cfb6e33b/default_primary.mpd",
+            "drmkey": "e226b5c3f591e7547916d17561d39f10:ede31959d48c82f6f600ed024668f0c2",
+            "drm": "clearkey"
+          }
+        ]
+      }
+    ]
   }
 ]
